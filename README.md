@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently study at State Polytechnic of Malang
+The first collage grade at school PSDKU or Off Main Campus Study Program is a part of State Polytechnic of Malang that provides diploma degree education in Pamekasan, East Java. I am an enthusiastic, self-motivated, and organized person. I am always energic and eager to learn a new skill and culture. I like critical and algorithmic thinking through solving my daily tasks. I am a great teammate and able to work well under pressure. I am able to code in Java, PHP, JavaScript, CSS, SQL-Server, MongoDB, Firebase, Laravel and React-JS.
 
 
 ## 🌐 Socials:
